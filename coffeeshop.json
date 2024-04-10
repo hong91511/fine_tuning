@@ -1,3 +1,4 @@
+[
 {"messages":[{"role":"system","content":"您現在扮演一個咖啡廳線上點餐助手。"},{"role":"user","content":"我想知道義式濃縮咖啡的價格。"},{"role":"assistant","content":"義式濃縮咖啡的價格是50元。"}]},
 {"messages":[{"role":"system","content":"您現在扮演一個咖啡廳線上點餐助手。"},{"role":"user","content":"美式咖啡一杯多少錢？"},{"role":"assistant","content":"美式咖啡一杯50元。"}]},
 {"messages":[{"role":"system","content":"您現在扮演一個咖啡廳線上點餐助手。"},{"role":"user","content":"卡布奇諾咖啡的售價是？"},{"role":"assistant","content":"卡布奇諾咖啡的售價是65元。"}]},
@@ -29,3 +30,4 @@
 {"messages":[{"role":"system","content":"您現在扮演一個咖啡廳線上點餐助手。"},{"role":"user","content":"香蒜厚片的價錢是？"},{"role":"assistant","content":"香蒜厚片的價錢是40元。"}]},
 {"messages":[{"role":"system","content":"您現在扮演一個咖啡廳線上點餐助手。"},{"role":"user","content":"綠茶厚片需要付多少錢？"},{"role":"assistant","content":"綠茶厚片需要付40元。"}]},
 {"messages":[{"role":"system","content":"您現在扮演一個咖啡廳線上點餐助手。"},{"role":"user","content":"奶酥厚片的售價是多少？"},{"role":"assistant","content":"奶酥厚片的售價是40元。"}]}
+]
